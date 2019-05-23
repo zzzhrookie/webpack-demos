@@ -1,0 +1,9 @@
+body {
+  background: red;
+  color: #fff;
+}
+#tupian {
+  background-image: url(../images/龙猫.jpg);
+  width:466px;
+  height:453px;
+}
